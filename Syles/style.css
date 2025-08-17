@@ -1,0 +1,20 @@
+p {
+    background-color: darkgray;
+    color: rgb(226, 16, 16);
+    font-size: xx-large;
+    font-family: cursive;
+}
+
+#main-section{
+    background-color: antiquewhite;
+}
+
+.section-text{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+*{
+    font-weight: bolder;
+}
